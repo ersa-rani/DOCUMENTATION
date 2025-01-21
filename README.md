@@ -1,2 +1,2 @@
 # DOCUMENTATION
-This is my thinking for my new project based on e-commerce of dresses additionally this is my project of day 2 in hacathon 3 in which i use road map,APIS and  market place foundation 
+This is my documentation for e_commerce website of dresses in which i share my daily upgradation step by step,based on backend with user friendly ui.
